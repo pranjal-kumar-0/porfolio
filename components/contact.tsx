@@ -156,11 +156,12 @@ const Contact = () => {
                             </span>
                         </a>
                     ))}
-                </div>
-
-                <div className="mt-20 text-center">
+                </div>                <div className="mt-20 text-center space-y-2">
                     <p className="text-neutral-600 text-xs font-mono">
-                        PRODUCED & MASTERED BY PRANJAL KUMAR © 2025
+                        MADE BY PRANJAL KUMAR © 2025
+                    </p>
+                    <p className="text-neutral-700 text-[10px] font-mono uppercase tracking-widest">
+                        Track: Pink Floyd
                     </p>
                 </div>
             </div>
